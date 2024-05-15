@@ -1,0 +1,1 @@
+_1inchurl = f'https://www.example.com
